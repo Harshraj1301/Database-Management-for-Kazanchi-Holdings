@@ -1,0 +1,550 @@
+﻿Sub_Process_ID,ProcessID,Sub-Process_Name
+1,1,Sözleşme Sonlanması Nedeniyle Gaz Kapatma Süreci
+2,7,EDAŞ CBS Süreci
+3,3,Yer Teslim Süreçleri
+4,1,Hukuka Sevk Süreci - Çoruh EPSAŞ
+5,1,Yüklenici Firmalardan Teminat Alım Süreci
+6,1,gfgzd
+7,17,ENERJİ VERİMLİLİĞİ YÖNETİMİ SÜREÇLERİ
+8,1,Yüklenicinin Yaptığı Usulsüzlükler
+9,9,Maaş Avansı Süreci
+10,1,Serbest Tüketici İndirim Oranı Belirleme
+11,19,Demirbaş Sayımı
+12,1,Hizmet Kalitesi Faktörü Yasal Uyum
+13,1,Servis Hizmetleri / Malzeme Fiyatlandırma
+14,5,Çay Ocaklarının Uygunsuz Kullanımı
+15,3,Yatırım Bütçe Planlama ve Gerçekleşmesi
+16,3,İş yükümlülüğünün yerine getirilememesi
+17,1,Teminatlandırma Süreci
+18,5,Yüksekte çalışma eğitimi süreçleri
+19,1,Jeneratör İade Süreci
+20,12,"Organizasyon Yapılanması, Performans Yönetimi"
+21,11,Yetkilendirme Süreci
+22,15,Güvenlik Kontrol Süreci
+23,1,Okunamayan Sayaç Süreci
+24,5,Sağlık Muayeneleri
+25,10,İhbar ve Şikayet Değerlendirme Süreci
+26,1,"Servis Hizmetleri/ Faturalandırma Süreci, Sistem Kullanımı"
+27,20,Sürücü Belgesi Kontrol
+28,11,Abys Süreci
+29,7,Zaman Saati Bozuk Olan Sayaçlar
+30,19,Duran Varlık Zimmet Süreci
+31,10,Envanter Takip Süreci
+32,1,Kademe Fiyatlama Süreci
+33,7,Mutabakat Süreci
+34,1,İç Tesisat Bağlantı Süreci
+35,2,Dokümantasyon Süreci
+36,1,Faturalandırma Süreci (Fırat&Çoruh EPSAŞ)
+37,10,Yüklenici Depo Malzeme Yönetimi
+38,1,Kesme Operasyonları Süreci
+39,15,Depo kapısının açık olması ve depo sorumlularının yerlerinde olmaması
+40,1,Jeneratör Tamir ve Bakım (Servis) Hizmeti
+41,1,Hat Hasarı Rücu Süreci
+42,8,Bolu Göynük Sözleşmeler ve Tedarik Süreçleri
+43,5,Islak Hacim Döşeme Hasarları
+44,15,Güvenlik Kameraları
+45,5,Evrak ve Döküman Eksiklikleri (Elektrik)
+46,5,X-Ray cihazı
+47,19,Santralde kullanılan yakıtın WARTSILA limitlerinde kullanılmasına rağmen dizel genatörlerin bazı parçalarının kullanım ömrünün kısalması
+48,5,SANTRAL VE SAHA GÜVENLİĞİ
+49,1,Gaz Açma Süreci
+50,5,Elektrik Pano Odaları Uygunsuz Depolama
+51,7,DSG Portföyü
+52,3,Döküm Bedelleri
+53,20,Araç Kullanım ve Takip Süreci
+54,19,Demirbaş Zimmet Süreci
+55,1,Kaçak ve Usulsüz Kullanım Süreci
+56,7,Sigorta Süreci
+57,17,BAKIM BÜTÇE SÜREÇLERİ
+58,11,Sistem Kullanımı ve Sistemler Arası Entegrasyon
+59,7,Planlı Bakım EPDK Raporlama Süreci
+60,9,Puantaj ve Avans Süreçleri
+61,17,İSG SÜREÇLERİ
+62,5,Ofis Temizliği
+63,9,İşe Alım Süreci
+64,1,Faturalama Süreci (Servis Hizmetleri)
+65,1,denmememememe
+66,10,İcra Feragat Süreci
+67,1,Stok Sayım Süreci / Envanter Takip Süreci
+68,10,Departman Demirbaş Sayımları
+69,10,Depo İdari Organizasyonu ve Stok/Demirbaşların İş Yeri Bazında Takibi
+70,1,Cari Hesap Mutabakatları
+71,5,Teknik Eğitim Sahaları
+72,21,Abone Bildirim Süreleri - EPSAŞ
+73,1,Elektrik Fatura Tahsilatlarının Raporlama ve Muhasebe Süreci
+74,10,Kritik Stok Seviyesinin Belirlenmesi
+75,20,Taşıt Kullanımı
+76,5,Evrak ve Döküman Eksiklikleri (Enerji)
+77,1,İcradan Tahsilat Süreci
+78,10,Garanti Süresi
+79,3,Ay Bazlı Gecikmeler
+80,3,SÖZLEŞME SÜREÇLERİ
+81,9,Görev Tanımları
+82,1,Ticari Alacaklar
+83,10,Hareket Görmeyen Stoklar
+84,3,ÖN TASARIM SÜRECİ
+85,20,"Hizmet Alım Süreçleri, Kargo Süreci"
+86,2,Kalite Tazminat Ödemeleri Süreci
+87,17,İSG ve Çevre Yönetim Süreçleri
+88,5,İSG Denetimleri QDMS Aksiyonları
+89,3,DEVREYE ALMA
+90,17,Elektrik Satış
+91,5,Personel Güvensiz Davranışlar
+92,1,İç Tesisat Süreci
+93,1,Bildirim Süreci
+94,10,Yedek Parça Satış Süreci
+95,21,Kişisel Verilerin Korunması Süreçleri
+96,7,Emtia (Mal Sigortası) Süreci
+97,1,Servis Hizmetleri/Servis Formu Zimmet Süreci
+98,7,Planlı Bakım CBS ve CRM Süreci
+99,1,Sözleşme Sonlanması Sebebiyle Gaz Kesme Süreci
+100,1,Müşteri Sözleşmesinden Gaz Açma Süreci
+101,10,Üretim Süreci
+102,21,İcra Takip Süreci
+103,9,Organizasyon Yapısı ve Süreçler
+104,5,Acil Durum Toplanma Alanları ve Tatbikatlar
+105,8,Nakliye Sürecİ
+106,2,Müşteri/Bayi Ziyaretleri Takip Süreci
+107,1,İlk Abonelikten Gaz Açma Süreci
+108,1,Hurda Satış Süreci
+109,8,Yerel Satın Alma Süreci
+110,2,Servis Hizmetleri / Hizmet Yeterlilik Belgesi
+111,1,Taksitlendirme İşlemleri
+112,1,Servis Hizmetleri / Periyodik Bakım Süreci
+113,7,Sigorta Süreci/ Emtia Sigortası
+114,2,Mesleki Yeterlilik Belgelerinin Temin Süreci
+115,1,Bağlantı Anlaşması İptal Süreci
+116,10,"Envanter Takip Süreci, Depo Tanımlaması, Stok Bekleme Süreleri, Kritik Stok Seviyesinin Belirlenmesi, Servis Araçlarına Verilen Malzemeler"
+117,19,Bakım formlarında yazan bilgilerdeki uyumsuzluklar
+118,1,Alt Bayi Sözleşmeleri
+119,1,"Sözleşme Sonlanması Nedeniyle Gaz Kapatma Süreci, Borçtan Gaz Açma Süreci, Müşteri  Sözleşmesinden Gaz Açma Süreci"
+120,9,Yıllık İzin Süreci
+121,8,Ekran Testleri
+122,5,İSG Personeli Saha Denetimi
+123,1,Gaz Kapama Süreci
+124,9,Engelli Personel
+125,1,Servis Hizmetleri / Faturalandırma Süreci
+126,7,Banka Hesaplarının Kayıt ve Kontrolü
+127,17,Elektrik Üretimi
+128,1,"Sistem Kullanımı, Servis Formu Faturalandırma Süreci, Periyodik Bakım Süreci"
+129,10,İç Tesisat Süreci
+130,2,Doküman Yönetimi
+131,1,İş Avansı Alım Süreci
+132,2,İhbar ve Şikayet Değerlendirme Süreci
+133,1,"Bağlantı Bedeli Alım Süreci, Bağlantı Anlaşması İptal Süreci"
+134,1,Faturalama Süreci
+135,7,Planlı Bakım CRM Süreci
+136,3,Bağlantı Görüşü Geçerlilik Süresi
+137,5,Evrak ve Döküman Eksiklikleri (Doğalgaz)
+138,10,Hurda Süreci
+139,10,Stok Yönetim Süreci
+140,5,Pandemi Tedbirleri
+141,1,Şahsi (Personel) Alımlar
+142,9,Görev Tanımları Süreci
+143,1,"Servis Hizmetleri / Servis Formlarının Kullanımı, Servis Hizmetleri / Servis Formu Zimmet Süreci"
+144,7,Malzeme Kullanım Süreci
+145,1,"Fırsat, Teklif ve Satış Siparişlerinin Oluşturulması"
+146,18,LSFO Olarak Alınan Yakıtın SLUDGE Miktarlarındaki Artış
+147,8,Yüklenici Seçimi
+148,7,Planlı Bakım Bütçe Planlaması
+149,2,Mesleki Yeterlilik Belgesi Takip Süreci
+150,3,Sözleşme Hazırlık Süreçleri
+151,1,Fatura İtiraz ve İptal Süreci
+152,3,Bağlantı Görüşü Revizeleri
+153,18,Masraf Takip Süreci
+154,1,Elektrik Faturalarında Nakit Tahsilat Süreci
+155,5,Bina Genelindeki Saha Eksiklikleri (Genel)
+156,1,Fatura İtiraz ve İptal Sürecİ
+157,18,Yerel Satın Alma Süreci
+158,9,Mesai Takip Süreci
+159,2,Gaz Açma Süreci
+160,1,Tüketimsiz Sayaç Süreci
+161,1,Servis Hizmetleri / Sistem Raporlamaları
+162,1,Sözleşme Sonlanması Nedeniyle Gaz Kesme Süreci
+163,1,Faturalandırma
+164,7,Verilen Teminat Mektupları ile Banka Teminat Listeleri Mutabakat Çalışması Süreci
+165,1,Teminat Mektubu Güncellenmesi Süreci
+166,1,Satış ve Tahsilatların Kontrolü
+167,5,Acil Durum Eylem Planları
+168,3,İmalat Hata ve eksiklikleri
+169,1,Yatırımların Hakediş Süreci
+170,10,Bakım-Onarım Süreci
+171,1,Kaçak Kıyas Süreci
+172,3,Yatırım Planlama
+173,3,Kesin Kabul Eksiklikleri
+174,1,Münferit Bağlantı Bedeli Hesaplama Süreci
+175,1,"Servis Hizmetleri/ Faturalandırma Süreci, Servis Hizmetleri/ Sistem Kullanımı"
+176,1,Teminat Mektubu Günncelleme Süreci
+177,3,Gecikme Cezaları
+178,21,Prosedür ve Talimatlar
+179,1,"Jeneratör İade Süreci, İkinci El Jeneratör Satış Süreci"
+180,5,Koruyucu Donanım veya Ekipmanlar
+181,2,Tahsilat Süreci
+182,9,Dokümantasyon süreci
+183,1,Borçtan Gaz Kesme Süreci
+184,8,Ödeme Süreçleri
+185,9,Mesai Saatleri Uyum Süreci
+186,8,ALTYÜKLENİCİ SÖZLEŞMELERİ İSG
+187,1,Güvence Bedeli
+188,1,Bağlantı Anlaşması Süreci
+189,3,Süre Uzatım Talebi
+190,8,Malzeme Talebi ve Teslimi
+191,3,Süreç tasarımı
+192,8,Mal ve Hizmet Alımına Yönelik İhale Süreçleri
+193,5,İSG Eğitim Süreci
+194,7,KPI Takibi
+195,1,Servis Hizmetleri/Faturalandırma Süreci
+196,14,Kasa Kontrol Süreci
+197,1,Mutabakat Süreci
+198,10,İhbar Değerlendirme Süreci
+199,10,Stok Sayım Süreci / Envanter Takip Süreci
+200,7,Planlı Bakım Hakediş İmza Süreci
+201,1,Yedek Parça Satış Süreci
+202,18,Masraf Süreci
+203,1,Servis Hizmetleri / Sistem Kullanımı
+204,8,Satınalma Süreci
+205,19,Duran Varlık Kayıt Süreci
+206,7,Teminat Süreci
+207,5,Temel İSG Eğitim Süreçleri
+208,1,Müşteri/Bayi Ziyaretleri
+209,5,Çalışan Temsilcisi
+210,3,Uyarı Yazıları
+211,9,Yıllık İzin
+212,18,Masraf Harcamaları ve Masraf Ödemeleri
+213,1,Güvence Bedeli Alım Süreci
+214,19,Majör bakım formlarında gerçekleşen maliyetlerin yazmaması
+215,7,Planlı Bakım Yüklenici Değerlendirme Sistemi
+216,11,Teknik ve Fiziki Tedbirler
+217,11,Stok Hareket Yetkilerinin İncelenmesi
+218,9,Yıllık Eğitim Planı
+219,3,Hizmet Kalitesi
+220,1,Teminat Mektubu Güncelleme Süreci
+221,8,TÖS Harici Ödemeler
+222,5,Sabitlenmeyen Dolaplar
+223,7,Planlı Bakım EDAŞ CBS Süreci
+224,3,Bağlantı Bedeli Ödeme
+225,8,Sürveyanlık Kontrol Çalışması
+226,5,İSG Personel Eksikliği
+227,21,Hukuka Sevk Süreleri
+228,7,Genel Aydınlatma Süreci
+229,19,Zimmet Süreci (IT Varlıkları)
+230,1,Usulsüz Kullanım Doğrulama Süreci
+231,9,Eğitim ve Mesleki Yeterlilik Süreci
+232,9,Mesleki Yeterlilik
+233,17,ELEKTRİK SATIŞ
+234,1,Elektrik Faturalarında Taksitlendirme Süreci
+235,15,Güvenlik Sürecİ
+236,20,"Araç Filo Süreci, Demirbaş Süreci"
+237,1,"Sözleşme Sonlanması Nedeniyle Gaz Kapatma Süreci, Borçtan Gaz Açma Süreci, Müşteri Sözleşmesinden Gaz Açma Süreci"
+238,1,Elektrik Faturalarında İptal Süreci
+239,7,Planlı Bakım Sürveyanlık Süreci
+240,1,Sayaç Okuma Süreci
+241,1,Faturalandırma Süreci
+242,15,Güvenlik Süreçleri
+243,10,Bolu Göynük Sözleşmeler ve Tedarik Süreçleri
+244,5,Yüklenici Saha Çalışanlarının İSG Uygulamaları
+245,9,Yıllık İzin Kullanım Süreci
+246,5,Koordinasyon Eksikliği
+247,1,"Borçtan Gaz Kesme Süreci, Kaçak ve Usulsüz Kullanım Süreci"
+248,1,Borçtan Gaz Açma Süreci
+249,7,Planlı Bakım Süreci
+250,1,Sözleşme Güç Aşımları
+251,3,Teknik Personel Sayı ve Yetkinlikleri
+252,1,Hava Yolu Bilet Satışları
+253,21,Kamulaştırma Ödemeleri
+254,1,Kalibrasyon Süreci
+255,21,Tapu Problemleri
+256,5,Acil Çıkış Uygunsuzlukları
+257,5,İSG Kurul
+258,7,Planlı Bakım Onarım Yapım Süreci
+259,5,Ergonomi Koşulları
+260,1,Servis Hizmetleri/ Servis Formlarının Sistem Kullanımı
+261,1,Elektrik Faturalandırma Süreci
+262,19,Duran Varlık Alımı ve Zimmet Süreci
+263,1,Elektrik Sayaç Okuma Süreci
+264,3,Yapım Süreci
+265,5,Ofis çalışma masaları
+266,8,Âtıl Duran Varlıkların Değerlendirilmesi
+267,19,Atıl Malzemeler
+268,5,Kimyasal Maddelerin Depolanması
+269,7,Mali Gerçekleşmelerin Takibi ve Aksiyon Süreçleri
+270,17,BAKIM SÜREÇLERİ
+271,1,Aksa Elektrik – Teminat Mektupları
+272,1,Alt Bayi Değerlendirme Süreci
+273,2,"Gelen yakıta yapılan analizlerin, analiz noktalarının ve analiz zamanının yetersiz olması"
+274,7,Fatura Kayıt Süreci
+275,1,Hedef Bazlı Performans Değerlendirmesi
+276,1,Borçtan Gaz Kesme İhbarının Oluşturulması Süreci
+277,11,SAP Erişim Yetkileri
+278,3,İSG Süreçleri
+279,5,Evrak ve Doküman Eksiklikleri (Kazancı Holding)
+280,21,KIBRIS ÇEVRE KANUNUNA UYUM
+281,1,Genel Aydınlatma Faturalandırma Süreci
+282,19,Duran Varlık Zimmet ve Kayıt Süreci
+283,5,Acil Durum Uyarı/Bilgilendirme Levhaları
+284,20,Araç filo süreçleri
+285,3,Resmi Yazılar
+286,1,Yüklenici Firmalarla Sözleşme Süreci
+287,3,KET süreci
+288,19,Duran Varlık Alım Süreci
+289,5,Covid-19 Saha Denetim
+290,3,Bildirimli Kesinti Süreleri
+291,8,SAP Proje Modülü
+292,10,Oda Demirbaşları ve Sayımları
+293,18,İş Avansı Alım Süreci
+294,1,Güvence Bedeli İade
+295,9,Eğitim Oryantasyon Süreci
+296,11,Sistem Yetkileri
+297,1,İş Takip Süreci
+298,1,Sözleşme Sonlanması Nedeniyle Gaz Kapama Süreci
+299,1,Alacak Yaşlandırma Süreci
+300,7,Planlı Bakım Performans Süreci
+301,1,deneme
+302,5,İSG-KATİP Atamaları
+303,3,Hakediş süreçleri
+304,5,Atık Süreci
+305,20,Araç Kullanım Takip Süreci
+306,1,Açık İş Emirleri
+307,1,Elektrik Faturalarında Tahsilat İptal Süreci
+308,21,Abone Bildirim Süreleri - EDAŞ
+309,1,Ek İskonto Süreci
+310,2,Mesleki Yeterlilik Belgelerinin Sistemsel Takip Süreci
+311,1,denemememmemme
+312,10,"Mal Kabul Süreci, Envanter Takip Süreci"
+313,2,Demirbaş Zimmet Süreci
+314,1,SAP-Dynamo Satış Vadelerinin Karşılaştırılması
+315,1,Serbest Tüketici İndirim Tanımlama
+316,5,Dolap Üzeri İstifleme
+317,11,TÖS Süreçleri
+318,1,İhbarname Basım Süreci
+319,21,Eksik Üretim Kaynaklı Cezalar
+320,19,Santralde depo alanına yakın bir bölgede açıkta santralin kapasite artırım zamanından kalan şalt sahasına ait malzemelerin bulunması ve bu alanın erişime açık olması
+321,5,Revir Alanı
+322,5,Çatı Katı Uygunsuzlukları
+323,16,İlçe Şefliği Operasyonları
+324,1,Kaçak-Usulsüz Kullanım Doğrulama Süreci
+325,1,Sözleşme Süreci
+326,3,Ekip-Ekipman Eksiklikleri
+327,8,Yerel Satınalımlar
+328,7,Hakediş kontrolü süreci
+329,15,güvenlik Süreçler
+330,10,"Envanter Takip Süreci, Stok Bekleme Süreleri"
+331,7,Fark Faturası süreci
+332,1,Elektrik Faturalarında Son Ödeme Tarihi Değişikliği Süreci
+333,1,Müşteri Sözleşmeleri ve Satış Dosyasının Hazırlanması
+334,8,Demontaj Malzeme Takibi
+335,3,Yastıklama ve Dolgu Malzemesi Kullanımı
+336,11,Ürün Fiyatlandırma
+337,9,Çalışanların Yaptığı Usulsüzlükler
+338,1,"Açık İş Emirleri, Borçtan Gaz Kesme Süreci, Kaçak ve Usulsüz Kullanım Süreci"
+339,1,Borçtan Gaz Kesme İhbarı Oluşturulma Süreci
+340,11,IT Süreçleri
+341,1,Aksa Elektrik - Teminatlandırma Süreci
+342,7,Endeks Okuma ve Not Atma Süreci
+343,1,Tahsilat Süreci
+344,9,Puantaj Hesaplama Süreci
+345,5,İSG Temel Eğitimleri
+346,21,Şüpheli Ticari Alacak ve Feragat Süreci
+347,8,Sözleşme Süreçleri (Smartpulse Sözleşme Yönetimi)
+348,1,"Fırsat, Teklif ve Satış Siparişlerinin Oluşturulması, Müşteri Limit ve Ödeme Koşulları, Bayi Sözleşmeleri"
+349,5,Klorlama
+350,5,"Yıllık Çalışma Planı, Yıllık Eğitim Planı ve Yıllık Değerlendirme Raporu"
+351,2,Sigorta Süreci
+352,8,Satın Alma Süreci (Sözleşmeli ve Sözleşmesiz)
+353,13,Bütçe
+354,3,İş Programı Hataları
+355,14,İş Avansı Süreci
+356,5,İSG Malzeme Teslimat ve Zimmet Süreçleri
+357,1,Yüklenici Firmalara Teminat İade Süreci
+358,21,Buhara Santrali Arsa Hukuki Süreci
+359,5,Uygunsuz Güvensiz Durumlar
+360,8,Yakıt transfer ve depolama tankı ölçümlerinde tüketilen yakıtın sayaç kullanılmadan iskandil yöntemi ile ölçülmesi
+361,5,Acil Durum Ekipleri
+362,5,Otopark Alanı Genel Problemler
+363,1,Serbest Tüketici Sayaç Tedariki
+364,9,Müşteri Hizmetleri Süreci
+365,8,SAP Ekran Testleri
+366,1,Son Ödeme Tarihi Geçmiş Alacak Süreci
+367,7,"Cari Hesap Mutabakatları, Banka Hesaplarının Kayıt ve Kontrolü"
+368,7,Planlı Bakım Planlama Süreci
+369,21,İcra davaları ve diğer davalar
+370,7,Cari Hesap Mutabakatları
+371,9,İnsan Kaynakları Süreci
+372,3,Raporlama Eksiklikleri
+373,9,Etik İlkelere Uyum
+374,1,Raporlama Süreci
+375,1,Fatura İptal Süreci
+376,17,Bina Genelindeki Saha Eksiklikleri (Genel)
+377,7,Planlı Bakım CBS Süreci
+378,3,Doküman Yönetimi
+379,10,Emniyet Stoku
+380,1,Nakit Güvence Bedeli Alım Süreci
+381,5,Koordinasyon Sağlanması
+382,3,Tip-1 ve Tip-2 Uygunsuzluğu
+383,3,Ekip ve Kişi Sayıları
+384,17,Üretim Süreci
+385,5,Zemin Döşeme Hasarları
+386,7,Planlı Bakım Onarım Saha Uygulamaları
+387,3,Ek Protokol
+388,10,Servis Hizmetleri / Servis Araçlarına Verilen Malzemeler
+389,17,Enerji Kaybı
+390,7,Turquality Destek Programına İlişkin Yapılan Harcamaların Kontrolü
+391,3,Planlama Süreçleri ve Süresel Hak Talepleri
+392,3,Tasarım Süreci
+393,1,Arızalı Sayaçların Faturalandırma Süreci
+394,7,Turquality ve Destek Kapsamının Analiz Edilmesi Süreci
+395,21,Vekaletname
+396,19,LSFO Yakıttan Kaynaklı Ekipman Arızaları
+397,20,Araç Filo Süreci
+398,9,Fazla Mesai Takip Süreci
+399,10,"Sayım Sonuçları, Sayım Farklarına İlişkin Alınan Aksiyonların İncelenmesi"
+400,10,Envanter Takip Sürec
+401,7,Bakım Onarım Ekipleri Süreci
+402,9,Fazla Mesai Süreci
+403,10,Stok Bekleme Süreleri
+404,1,Güvence Bedeli İade Süreci
+405,10,Birim Üretim Oranlarındaki / Verim Oranındaki Düşme
+406,8,Sözleşme Süreçleri
+407,10,Stok ve Demirbaş Sayım Süreci
+408,5,İş Güvenliği ve Sağlığı
+409,7,Sözleşme Süreçleri – Fatura Onay Yetki Kontrolü
+410,7,EPİAŞ ve TEİAŞ Portal Ekran Testleri
+411,1,Maliyet Altına Satışların Onay Süreci
+412,10,Stok Sayım Süreci
+413,1,KET Yatırımı ve Yeni Abonelik
+414,2,İhbar ve Şikayetleri Değerlendirme Süreci
+415,17,Bakım Süreleri
+416,7,Fatura Onay Süreci
+417,1,Kâr Marjı Düşük Satışlar
+418,10,Demirbaş Sayımı
+419,1,Havale/Eft Kanalıyla Yapılan Tahsilata İlişkin Manuel İşlemler
+420,1,Kaçak Kullanım Doğrulama Süreci
+421,9,Yıllık İzin Kullanımları
+422,7,Deplase Süreci
+423,10,"Stok Sayım Süreci, Hareket Görmeyen Stoklar"
+424,7,"Banka, Satıcı, Müşteri Mutabakat Süreci"
+425,9,Eğitim ve Mesleki Yeterlilik Takip Süreci
+426,5,İSG Risk Değerlendirmesi
+427,8,Duran Varlık Alım Süreci
+428,5,Uygunsuz Lastik Depolanması
+429,8,Satınalma Süreçleri
+430,1,Vadesi Geçmiş Alacaklar
+431,9,Trafik Cezaları
+432,3,Tranşe Kesitleri
+433,9,Personelden Yapılan Ücret Kesintileri
+434,20,Emisyon Ölçümü
+435,1,Proje Onay Kontrol Süreci
+436,17,Bakım Süreçleri
+437,18,Masraf Belgeleri
+438,1,Serbest Tüketici Sözleşme Düzenleme
+439,18,Checkbook (Çek Defteri) Kullanım Süreçleri
+440,7,Planlı Bakım Planlama ve Projelendirme Süreci
+441,1,kasa Süreçleri
+442,1,Fiili Isıl Değerlerin Sistem Girişleri
+443,6,Fatura Ödeme Tarihleri Kontrolü Süreci
+444,5,Islak Hacim Temizliği
+445,5,Engelli Çalışan Sayısı
+446,1,Bağlantı Bedeli Alım Süreci
+447,7,Planlı Bakım Eğitim Süreci
+448,18,Komisyon Ödemeleri
+449,3,Malzeme Mutabakatı
+450,5,EDAŞ Saha Çalışanlarının İSG Uygulamaları
+451,19,Planlı Bakımlar
+452,1,Serbest Tüketici Abone Geri Kazanımı
+453,1,İş Tekip Süreci
+454,7,Üçüncü Şahıslara Ödenen Tazminatlar
+455,1,Gaz Kesme İstisna Süreci
+456,17,STOK SÜREÇLERİ
+457,7,Sözleşme Maddelerine Uyum Süreci
+458,19,Âtıl Duran Varlıkların Değerlendirilmesi
+459,7,Mutabakat Süreçleri
+460,1,Tahsili Şüpheli Alacaklar
+461,18,Personel Masraf Süreçleri
+462,10,Stok kontrol süreci
+463,14,Kasa Sayımı Süreci
+464,1,Genel Aydınlatma Yatırım Süreci
+465,1,Hat Hasarları Rucu Süreci
+466,3,Dağıtım Bağlantı Anlaşması
+467,10,Sayım Sonuçları
+468,10,Malzeme ve Stok Yönetimi
+469,1,Müşteri Sözleşmesi Süreci
+470,3,Bağlantı Talebi Karşılama
+471,1,Güvence Bedeli iade Süreci
+472,1,Elektrik Faturalarında Banka Kanalıyla Tahsilat Süreci
+473,5,Periyodik Sağlık Kontrolleri
+474,5,Evrak ve Döküman Eksikleri (Enerji)
+475,9,İşten Çıkış Süreci
+476,7,Doğalgaz Şirketleri E-Fatura Süreci
+477,15,Güvenlik Süreci
+478,1,90 Gün Üzeri Vadeli Satışlar Ödeme Koşulları
+479,9,"Prosedür, Talimat, İş Akışı"
+480,4,İK Süreçleri
+481,7,Araç Kiralama Hakediş Süreci
+482,10,İhale Süreci
+483,19,"Duran Varlık Alım Süreci, Duran Varlık Kayıt Süreci"
+484,9,İnsan Kaynakları Süreçleri
+485,11,SAP sistemi üzerinden yürütülen muhasebe kayıt süreçleri
+486,7,İdari Ceza İncelenmesi Süreçleri
+487,9,Personel Eğitimi ve Eğitim Etkinliğinin Değerlendirilmesi Süreci
+488,7,Endeks Okuma Süreci
+489,14,Personele Verilen Avanslar - Personel (Maaş) Avansı & İş Avansı
+490,1,Alacak Yönetimi
+491,20,Araç Takip Süreci
+492,10,Depo Tanımlaması
+493,9,Özlük Dosyaları
+494,5,UYGUNSUZ / GÜVENSİZ DURUMLAR
+495,7,Faturalandırma Süreçleri
+496,1,Periyodik Bakım Süreci
+497,21,Danışmanlık hizmetleri
+498,1,"Müşteri Sözleşmeleri ve Satış Dosyasının Hazırlanması, Müşteri/Bayi Ziyaretleri"
+499,2,LSFO Olarak Alınan Yakıtın Spec Değerlerine Uyum Oranı
+500,7,Verilen Teminat Mektupları Durum Kontrol Süreci
+501,8,BAKIM SÖZLEŞMELERİ
+502,20,Güvenlik Süreci
+503,2,Satış Süreci
+504,5,Raporlama Süreçleri
+505,1,Faturalandırma Süreci (Aksa Elektrik)
+506,3,Şantiye Günlük Defteri
+507,1,Tahsilat İşlemlerindeki Yetkilendirmeler
+508,15,Fiziksel Güvenlik Süreçleri
+509,17,ELEKTRİK ÜRETİM
+510,7,Şüpheli Alacak Hesabı ve Banka Hesapları
+511,1,Bağlantı Bedeli Süreci
+512,18,İş Avansı Süreci
+513,21,Hukuka Sevk Süreci
+514,9,"İşe Alım, Eğitim ve Mesleki Yeterlilik Takip Süreci"
+515,18,Masraf Kapama Süreci
+516,5,İSG Risk Değerlendirme
+517,5,Santral ve Maden İK Süreçleri
+518,8, Mal ve Hizmet Alımına Yönelik İhale Süreçleri
+519,7,saha iş emirleri süreci
+520,1,Arıza Süreci
+521,1,Müşteri Limit ve Ödeme Koşulları
+522,9,Kişisel Verilerin Korunması Süreçleri
+523,3,İş Programı Gecikmeleri
+524,18,Masraf ve Gider Süreçleri
+525,7,Sözleşme-Fatura Süreçleri
+526,3,EPDK Şikayetleri
+527,11,Abys Yetki Süreci
+528,5,Sigara Alanı
+529,7,Teminat Mektupları
+530,1,Sevkiyat Raporu
+531,5,"İSG Eğitim Süreci, İSG Risk Değerlendirmesi"
+532,1,Gelir Getirici Faaliyetler ve Tahsilat Süreçleri
+533,14,Kasa ve Banka Süreci
+534,1,Ödeme Koşullarının Tanımlanması Süreci
+535,8,Ödeme Süreci
+536,3,Bağlantı Başvurularının Sistemden Silinmesi
+537,20,"Zimmet, Duran Varlık ve Fiziki Güvenlik Süreçleri"
+538,5,Eğitim Süreçleri – EKAT Belgesi
+539,21,Teminat Mektupları
+540,19,Atıl Duran Varlıkların Değerlendirilmesi
+541,9,Eğitim ve Oryantasyon Süreci
+542,5,Asma Tavan Hasarları
+543,1,Alacak Tahsil Süreci
+544,1,Servis Hizmetleri/ Periyodik Bakım Süreci
+545,1,Abone Bildirim Süreci
+546,10,Stok Sayımları
+547,5,Yangın Sprinklerinin Hatalı Yerleşimi
+548,13,Bütçe Süreci
+549,3,Araç Temin Yükümlülüğü
